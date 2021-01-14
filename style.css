@@ -1,0 +1,17 @@
+.header_sec{
+    height:600px;
+    background-color: rgb(250, 244, 233);
+}
+.img_color{
+    background-color: rgb(227, 227, 240);
+    border-radius: 15px;
+
+}
+.shoes_card{
+    border:none;
+    border-radius: 15px;
+}
+.bor{
+    border:none;
+    border-radius: 15px;
+}
