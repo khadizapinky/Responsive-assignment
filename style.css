@@ -11,40 +11,35 @@
    font-weight: 550;
    font-size: 16px;
    line-height: 24px;
-   
-
 }
 .nike{
     padding-left:110px;
 }
+
 .nike_react{
     font-family: Bebas Neue;
-
-font-style: normal;
-font-weight: bold;
-font-size: 50px;
-line-height: 70px;
-
-color: #FA804C;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 70px;
+    color: #FA804C;
 
 }
 .infinity{
-   font-family: Bebas Neue; 
-  font-style: normal;
-font-weight: bold;
-font-size: 50px;
-line-height: 50px;
-
-color: #363958;
+    font-family: Bebas Neue; 
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 50px;
+    color: #363958;
 }
 .buy_button{
-width: 130px;
-height: 50px;
-left: 853.68px;
-top: 424px;
-
-background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
-border-radius: 10px;
+    width: 130px;
+    height: 50px;
+    left: 853.68px;
+    top: 424px;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
 
 }
 .casual_color{
@@ -53,7 +48,7 @@ border-radius: 10px;
     font-weight: 20px;
 
 }
-.p_color{
+.text_color{
     color:#3E3E3E;
 }
 .shadow_color{
@@ -70,7 +65,7 @@ border-radius: 10px;
     border:none;
     border-radius: 15px;
 }
-.bor{
+.card_border{
     border:none;
     border-radius: 15px;
 }
@@ -78,7 +73,7 @@ border-radius: 10px;
     color: #FA804C;
     font-weight: bold;
 }
-.last_sec{
+.contact_section{
     background-color: #FFF9F4;
     margin-top:50px;
     padding:50px;
