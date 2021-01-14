@@ -1,6 +1,60 @@
-.header_sec{
+.header_section{
     height:600px;
-    background-color: rgb(250, 244, 233);
+    background-color: #FFF9F4;
+}
+
+/* nav-section */
+.nav_section a{
+   color:  #3C3C3C;
+   font-family: Roboto;
+   font-style: normal;
+   font-weight: 550;
+   font-size: 16px;
+   line-height: 24px;
+   
+
+}
+.nike{
+    padding-left:110px;
+}
+.nike_react{
+    font-family: Bebas Neue;
+
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 70px;
+
+color: #FA804C;
+
+}
+.infinity{
+   font-family: Bebas Neue; 
+  font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 50px;
+
+color: #363958;
+}
+.buy_button{
+width: 130px;
+height: 50px;
+left: 853.68px;
+top: 424px;
+
+background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+border-radius: 10px;
+
+}
+.casual_color{
+    color: #363958;
+    font-weight: bold;
+    font-weight: 20px;
+
+}
+.p_color{
+    color:#3E3E3E;
 }
 .img_color{
     background-color: rgb(227, 227, 240);
@@ -15,3 +69,85 @@
     border:none;
     border-radius: 15px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+/* 
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+
+color: #3C3C3C;
+
+
+
+/* Product */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: 989px;
+top: 47px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #3C3C3C;
+
+
+
+/* About us */
+
+position: absolute;
+width: 65px;
+height: 24px;
+left: 1103px;
+top: 47px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #3C3C3C;
+
+
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+color: #3C3C3C; */
+
